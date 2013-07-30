@@ -7,7 +7,7 @@ Standards-Version: 3.9.4
 
 Package: adonis-extras
 Architecture: all
-Depends: bleachbit,brasero,chromium-browser,file-roller,flashplugin-nonfree,gedit,gimp,printer-driver-all,transmission,vlc,slim,emacs,xchat,virtualbox-ose-guest-utils,cups,f-spot,openjdk-7-jre,evince,galculator
+Depends: bleachbit,brasero,chromium-browser,file-roller,flashplugin-nonfree,gedit,gimp,printer-driver-all,transmission,vlc,slim,emacs,xchat,virtualbox-ose-guest-utils,cups,f-spot,openjdk-7-jre,evince,galculator,adonis-themes
 Description: Installs extra utilities for a desktop session
  Installs extra utilities for a desktop session
 

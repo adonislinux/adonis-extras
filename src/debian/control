@@ -1,0 +1,13 @@
+Source: adonis-extras
+Section: admin
+Priority: optional
+Maintainer: Bobby Martin <bobby.martin@mail.wvu.edu>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.9.4
+
+Package: adonis-extras
+Architecture: all
+Depends: bleachbit,brasero,chromium-browser,file-roller,flashplugin-nonfree,gedit,gimp,printer-driver-all,transmission,vlc,slim,emacs,xchat,virtualbox-ose-guest-utils,cups,f-spot,openjdk-7-jre,evince,galculator
+Description: Installs extra utilities for a desktop session
+ Installs extra utilities for a desktop session
+
